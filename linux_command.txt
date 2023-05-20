@@ -1,4 +1,4 @@
-mkdir my_directory
+mkdir FinalExam2
 touch ROBOT_CLASS.txt
 git clone https://github.com/robot-class/final.git
 cd final
