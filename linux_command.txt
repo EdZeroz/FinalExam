@@ -1,0 +1,8 @@
+mkdir my_directory
+touch ROBOT_CLASS.txt
+git clone https://github.com/robot-class/final.git
+cd final
+git branch robot-dev
+git checkout robot-dev
+git add .
+git push origin robot-dev
